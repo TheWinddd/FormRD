@@ -1,0 +1,94 @@
+HỒ SƠ NĂNG LỰC R&D CÁ NHÂN
+
+I. THÔNG TIN CHUNG
+
+- Họ và tên: {{HoTen}}
+- Đơn vị: {{DonVi}}
+- Phòng ban/Nhóm: {{PhongBan}}
+- Vị trí công tác: {{ViTri}}
+- Email liên hệ: {{Email}}
+- Số điện thoại: {{SoDienThoai}}
+- Số năm kinh nghiệm R&D: {{SoNamRD}} năm
+- Bậc học: {{BacHoc}}
+- Chuyên ngành: {{ChuyenNganh}}
+
+II. TÓM TẮT CHUYÊN MÔN
+
+{{TomTat}}
+
+III. TỪ KHÓA CHUYÊN SÂU
+
+{{TuKhoa}}
+
+IV. CÁC DỰ ÁN R&D TIÊU BIỂU
+
+{{DuAn}}
+
+V. NĂNG LỰC NỀN TẢNG
+
+(Thang điểm: 0 – Chưa có | 1 – Cơ bản | 2 – Áp dụng | 3 – Thành thạo | 4 – Chuyên gia)
+
+1. Phương pháp luận & Nghiên cứu khoa học
+
+- Phương pháp luận NCKH: {{NL_1_1_1}}
+- Xây dựng đề cương NCKH: {{NL_1_1_2}}
+- Phân tích số liệu khoa học: {{NL_1_1_3}}
+- Công bố khoa học & SHTT: {{NL_1_1_4}}
+
+2. Quản lý & Chiến lược R&D
+
+- Sáng tạo & phát triển ý tưởng: {{NL_1_2_1}}
+- Hoạch định chiến lược R&D: {{NL_1_2_2}}
+- Quản lý & triển khai dự án nghiên cứu: {{NL_1_2_3}}
+- Quản lý danh mục dự án: {{NL_1_2_4}}
+
+3. Công cụ & Chuyển đổi số
+
+- Hệ thống hóa thông tin khoa học: {{NL_1_3_1}}
+- Ứng dụng AI & chuyển đổi số: {{NL_1_3_2}}
+
+VI. NĂNG LỰC CHUYÊN MÔN THEO CHUỖI GIÁ TRỊ R&D
+
+1. Thị trường & Insight
+
+- Phân tích thị trường & xu hướng sản phẩm: {{NL_2_1_1}}
+
+2. Nguồn nguyên liệu & dược liệu
+
+- Nghiên cứu YH cổ truyền: {{NL_2_2_1}}
+- Vùng trồng GACP: {{NL_2_2_2}}
+- Tiêu chuẩn hóa & ĐBCL dược liệu: {{NL_2_2_3}}
+- Tối ưu hóa chiết xuất – cao định chuẩn: {{NL_2_2_4}}
+- Công nghệ Sinh học Dược liệu: {{NL_2_2_5}}
+
+3. Công thức & Sản phẩm
+
+- Xây dựng công thức sản phẩm: {{NL_2_3_1}}
+- R&D sản phẩm mới: {{NL_2_3_2}}
+- Công nghệ bào chế nâng cao: {{NL_2_3_3}}
+
+4. Tiền lâm sàng
+
+- Nghiên cứu tin sinh học – in silico: {{NL_2_4_1}}
+- Đánh giá tác dụng sinh học (in vitro, in vivo): {{NL_2_4_2}}
+
+5. Lâm sàng
+
+- Thiết kế & QL thử nghiệm LS: {{NL_2_5_1}}
+- Sinh khả dụng & BE: {{NL_2_5_2}}
+
+6. Đăng ký & Pháp chế
+
+- RA trong nước: {{NL_2_6_1}}
+- RA quốc tế: {{NL_2_6_2}}
+
+7. Sản xuất & Chuyển giao
+
+- Chuyển giao công nghệ: {{NL_2_7_1}}
+- Vận hành máy móc thiết bị sản xuất: {{NL_2_7_2}}
+
+8. Sau lưu hành & Medical Affairs
+
+- Cảnh giác Dược/Mỹ phẩm: {{NL_2_8_1}}
+- Hỗ trợ Kỹ thuật & Y khoa (Medical Affairs): {{NL_2_8_2}}
+
